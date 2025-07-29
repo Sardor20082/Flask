@@ -1,0 +1,53 @@
+LANGUAGES = {
+    'uz': {
+        'start': "🇺🇿 Tilni tanlang:",
+        'choose_platform': "📥 Qaysi platformadan video yuklamoqchisiz?",
+        'send_link': "🔗 Video havolasini yuboring:",
+        'downloading': "⏳ Yuklanmoqda, biroz kuting...",
+        'quality_select': "📽 Sifatni tanlang:",
+        'not_subscribed': "📛 Botdan foydalanish uchun quyidagi kanalga obuna bo‘ling:",
+        'admin_panel': "⚙️ Admin panel:",
+        'stats': "📊 Statistika",
+        'broadcast': "📢 Xabar yuborish",
+        'set_channel': "🔧 Kanalni sozlash",
+        'message_sent': "✅ Xabar yuborildi!",
+        'send_broadcast': "✍️ Yuboriladigan xabarni kiriting:",
+        'channel_updated': "✅ Majburiy kanal yangilandi!",
+        'total_users': "👥 Umumiy foydalanuvchilar: {}",
+        'new_today': "🆕 Bugun qo‘shilganlar: {}"
+    },
+    'ru': {
+        'start': "🇷🇺 Выберите язык:",
+        'choose_platform': "📥 С какой платформы хотите скачать видео?",
+        'send_link': "🔗 Отправьте ссылку на видео:",
+        'downloading': "⏳ Загрузка, пожалуйста подождите...",
+        'quality_select': "📽 Выберите качество:",
+        'not_subscribed': "📛 Подпишитесь на канал, чтобы пользоваться ботом:",
+        'admin_panel': "⚙️ Панель администратора:",
+        'stats': "📊 Статистика",
+        'broadcast': "📢 Рассылка",
+        'set_channel': "🔧 Настроить канал",
+        'message_sent': "✅ Сообщение отправлено!",
+        'send_broadcast': "✍️ Введите сообщение для рассылки:",
+        'channel_updated': "✅ Обязательный канал обновлен!",
+        'total_users': "👥 Всего пользователей: {}",
+        'new_today': "🆕 Новых сегодня: {}"
+    },
+    'en': {
+        'start': "🇬🇧 Select your language:",
+        'choose_platform': "📥 Which platform do you want to download from?",
+        'send_link': "🔗 Please send the video link:",
+        'downloading': "⏳ Downloading, please wait...",
+        'quality_select': "📽 Select quality:",
+        'not_subscribed': "📛 Please subscribe to the channel to use this bot:",
+        'admin_panel': "⚙️ Admin Panel:",
+        'stats': "📊 Statistics",
+        'broadcast': "📢 Send broadcast",
+        'set_channel': "🔧 Set mandatory channel",
+        'message_sent': "✅ Message sent!",
+        'send_broadcast': "✍️ Enter the message to broadcast:",
+        'channel_updated': "✅ Mandatory channel updated!",
+        'total_users': "👥 Total users: {}",
+        'new_today': "🆕 New today: {}"
+    }
+}
